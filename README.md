@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-composer require --prefer-dist changyuan/umeng-push
+composer require changyuan/umeng-push
 ```
 
 or add

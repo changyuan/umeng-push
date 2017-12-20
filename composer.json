@@ -11,6 +11,6 @@
     ],
     "minimum-stability": "stable",
     "autoload":{
-        "psr-4": { "changyuan\\UmengPush\\": "src/" }
+        "psr-4": { "changyuan\\umengpush\\": "src/" }
     }
 }
