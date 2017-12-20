@@ -1,0 +1,16 @@
+{
+    "name": "changyuan/umeng-push",
+    "description": "umeng push php composer version",
+    "keywords": ["push"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "changcrazy",
+            "email": "changocean@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload":{
+        "psr-4": { "changyuan\\UmengPush\\": "src/" }
+    }
+}
