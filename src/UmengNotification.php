@@ -1,6 +1,8 @@
 <?php
 namespace changyuan\umengpush;
 
+use Exception;
+
 abstract class UmengNotification
 {
     // The host
